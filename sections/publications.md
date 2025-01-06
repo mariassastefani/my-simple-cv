@@ -1,6 +1,6 @@
 ## Selected Publications
 
-* Jones, Henry W. Jr. _How I Got Rich off Colonialism_. Princeton, NJ:
-  Princeton University Press, 1944.
-* Jones, Henry W. Jr. “It Belongs in a Museum.” _Journal of Patrimony
-  Exploitation_ 10, no. 1 (1944), 793–843.
+* CFRS: A Trends-Driven Collaborative Fashion Recommendation System
+Stefani, M. A., Stefanis, V., & Garofalakis, J.
+2019 10th International Conference on Information, Intelligence, Systems and Applications (IISA), IEEE, pp. 1-4, July 2019
+

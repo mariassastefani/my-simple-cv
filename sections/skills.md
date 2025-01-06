@@ -1,4 +1,6 @@
 ## Skills
 
-* \LaTeX
-* Bullwhip
+* Meta Ads
+* SEO 
+* Google Ads
+* HTML  
